@@ -1,0 +1,62 @@
+
+package com.demo;
+
+public class First
+{
+	public static void main(String[] args) 
+	{
+	
+
+	     int sub1 = 80;                            //initializing subject1 marks                        
+	     int sub2 = 80;
+	     int sub3 = 80;
+	     int sub4 = 80;
+	     int sub5 = 80;
+	     int sub6 = 80;
+	     int sub7 = 80;
+	     
+	     int total = (sub1+sub2+sub3+sub4+sub5+sub6+sub7);    // total calculated
+	     
+	     System.out.println("Total : "+ total);     // printing total
+	     
+	     int percentage  = (total/7); 
+	     
+	     System.out.println("Percentage : "+ percentage);   // printing percentage
+	     
+	}
+
+}
+
+
+
+
+
+package com.demo;
+
+public class Area 
+{
+	public static void main(String[] args) 
+	{
+	
+		// Area of rectangle
+		
+		int length = 5;
+		int breadth = 10;
+		
+		int area_rectangle = (length * breadth);
+		System.out.println("Area of Rectangle : "+ area_rectangle );
+		
+		// Area of triangle
+		
+		
+		// Area of Square
+		
+		
+		// Area of circle
+		
+		
+		
+	}
+
+}
+
